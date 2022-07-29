@@ -6,7 +6,6 @@ import sys
 USER = os.environ.get("SUDO_USER")
 HOME = f'/home/{USER}'
 RED = "\033[31m"
-ZSHRC = f'{HOME}/.zshrc'
 
 
 def remove_from_apt():
