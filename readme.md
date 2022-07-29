@@ -2,7 +2,7 @@
 
 # Remove [Docker](https://www.docker.com/) from [Ubuntu](https://ubuntu.com/) based distros
 
-## Remove all dependencies and remain files from docker
+## Remove all dependencies and remaining files from docker
 
 <br />
 <br />
